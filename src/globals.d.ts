@@ -1,0 +1,1 @@
+declare const __ENV_SECRET__: string;
